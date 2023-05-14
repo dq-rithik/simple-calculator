@@ -4,7 +4,9 @@
     padding: 0;
   }
   h1{
-      colour : #fff;
+      color: #080000;
+      text-align: center;
+      
   }
   body {
     background-color: #5ba5db87;
